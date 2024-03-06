@@ -1,7 +1,7 @@
-const api_key = "your_real_api_key_here"
-const URL ="https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=your_real_api_key_here&page=1" 
+const apiKey = process.env.API_KEY;
+const URL ="https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=" + apiKey + "&page=1";
+const searchURL ="https://api.themoviedb.org/3/search/movie?&api_key=" + apiKey + "&query=";
 const imgURL = "https://image.tmdb.org/t/p/w1280"
-const searchURL ="https://api.themoviedb.org/3/search/movie?&api_key=your_real_api_key_here&query="
 const form = document.getElementById("search-form")
 const query = document.getElementById("query")
 const root = document.getElementById("root")
