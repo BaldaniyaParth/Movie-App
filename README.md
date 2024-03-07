@@ -4,7 +4,7 @@
 This is a movie application built using HTML, CSS, and JavaScript. It allows users to discover popular movies, view their details, and search for specific movies.
 
 ## Live Demo
-You can try the live demo here :
+You can try the live link here :
 ### https://movies-parth.netlify.app/
 
 
