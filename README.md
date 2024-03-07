@@ -5,6 +5,7 @@ This is a movie application built using HTML, CSS, and JavaScript. It allows use
 
 ## Live Demo
 You can try the live demo here :
+### https://movies-parth.netlify.app/
 
 
 ## Features
@@ -21,9 +22,10 @@ You can try the live demo here :
 The Movie Database (TMDb) API: Provides access to a vast database of movies, including details such as titles, release dates, overviews, and posters.
 
 ## How to Use
-Clone the repository to your local machine.
-Open the index.html file in a web browser.
-Explore popular movies, view their details, and use the search functionality to find specific movies.
+- Clone the repository to your local machine.
+- Replace process.env.API_KEY to your api.
+- Open the index.html file in a web browser.
+- Explore popular movies, view their details, and use the search functionality to find specific movies.
 
 
 
