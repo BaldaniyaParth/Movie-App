@@ -1,7 +1,7 @@
 # Movie App
 
 ## Description
-This is a movie application built using HTML, CSS, and JavaScript. It allows users to discover popular movies, view their details, and search for specific movies.
+This is a responsive movie application built using HTML, CSS, and JavaScript. It allows users to discover popular movies, view their details, and search for specific movies. The application is designed to work seamlessly across various devices and screen sizes.
 
 ## Live Demo
 You can try the live link here :
@@ -12,6 +12,8 @@ You can try the live link here :
 - Popular Movies: Display a list of popular movies sorted by popularity.
 - Movie Details: Click on a movie to view its details including title, release date, overview, and an option to view the movie poster.
 - Search Functionality: Search for movies by title.
+- Responsive Design: The application is designed to provide a seamless user experience across various devices and screen sizes, including mobile phones, tablets, and desktops.
+
 
 ## Technology Stack
 - HTML
